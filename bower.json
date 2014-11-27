@@ -11,5 +11,6 @@
     "slope",
     "angle"
   ],
+  "ignore": "",
   "license": "MIT"
 }
