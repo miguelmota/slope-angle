@@ -1,8 +1,8 @@
 {
   "name": "slope-angle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get the angle of a slope",
-  "main": "index.js",
+  "main": "slope-angle.js",
   "directories": {
     "test": "test"
   },
